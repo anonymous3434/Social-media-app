@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400" height="300" viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Left line -->
+  <line x1="60" y1="120" x2="180" y2="120" stroke="white" stroke-width="3"/>
+
+  <!-- Icon -->
+  <rect x="185" y="85" width="60" height="60" rx="12" fill="none" stroke="white" stroke-width="5"/>
+  <circle cx="215" cy="115" r="18" fill="none" stroke="white" stroke-width="5"/>
+  <circle cx="235" cy="95" r="5" fill="white"/>
+
+  <!-- Right line -->
+  <line x1="240" y1="120" x2="360" y2="120" stroke="white" stroke-width="3"/>
+
+  <!-- Text -->
+  <text x="200" y="200" text-anchor="middle" font-family="Arial" font-size="32" font-weight="700" fill="white">
+    GUPSHUPPRO
+  </text>
+</svg>
